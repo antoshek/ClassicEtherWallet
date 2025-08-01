@@ -1,4 +1,4 @@
-## https://classicetherwallet.com - Content of ClassicEtherWallet.com is served directly from github.
+mo## https://classicetherwallet.com - Content of ClassicEtherWallet.com is served directly from github.
 
 ### ClassicEtherWallet
 
